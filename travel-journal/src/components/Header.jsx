@@ -1,4 +1,4 @@
-import logo from '../assets/globe-logo.svg';
+import logo from '../assets/logo.svg';
 
 function Header() {
     return (
